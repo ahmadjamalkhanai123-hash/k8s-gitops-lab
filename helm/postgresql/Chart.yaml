@@ -1,0 +1,6 @@
+apiVersion: v2
+name: postgresql
+description: Simple PostgreSQL Helm chart for Kubernetes lab
+type: application
+version: 1.0.0
+appVersion: "16"
